@@ -10,4 +10,6 @@
 
 <h3> Preview </h3>
 
-<img src="https://github.com/alsaraiva/jogodamemoria/blob/master/README/tela.jpg?raw=true"/>
+<img src="https://github.com/alsaraiva/jogodamemoria/blob/master/README/GIF-memory.gif?raw=true"/>
+
+
